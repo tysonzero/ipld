@@ -1,2 +1,3 @@
 *.swp
+/dag-cbor/.stack-work
 /ipld-data-model/.stack-work
